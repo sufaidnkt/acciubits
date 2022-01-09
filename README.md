@@ -10,7 +10,7 @@ node server.js
 ```
 node app/src/emailWorker.js consumeMessage
 ```
-add rabitmq configuration in /app/src/smtpConfig.js
+add SMTP configuration in /app/config/smtpConfig.js
 Database included in DB foder
 
 
